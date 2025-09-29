@@ -1,0 +1,32 @@
+{
+  "name": "react-apps",
+  "version": "1.0.0",
+  "description": "This is react app by Ashok Elumalai",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashok-elumalai/React-Apps.git"
+  },
+  "keywords": [
+    "react",
+    "react-apps",
+    "Ashok",
+    "Elumalai"
+  ],
+  "author": "Ashok Elumalai",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
